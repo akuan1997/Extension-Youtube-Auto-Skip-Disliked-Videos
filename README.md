@@ -1,0 +1,1 @@
+# Extension-Youtube-Auto-Skip-Disliked-Videos
